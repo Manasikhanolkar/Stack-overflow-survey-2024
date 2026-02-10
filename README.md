@@ -32,6 +32,3 @@ Exploratory Data Analysis (EDA)
 
 Dashboarding & Data Visualization
 
-
-
-Do you like this personality?
